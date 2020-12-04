@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrey112&layout=compact)](https://github.com/dhrey112/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrey112&layout=compact)](https://github.com/dhrey112/github-readme-stats)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
