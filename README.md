@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+---
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrey112&layout=compact)](https://github.com/dhrey112/github-readme-stats)
