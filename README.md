@@ -78,6 +78,8 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Apache%20Cassandra-informational?style=flat&logo=apachecassandra&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -85,7 +87,7 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 <br>
 
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=Py-Tracker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
@@ -97,7 +99,7 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-
+https://simpleicons.org/icons/apachecassandra.svg
 <br>
 
 ---
