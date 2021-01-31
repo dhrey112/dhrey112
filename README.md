@@ -34,7 +34,9 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 ## 📝 Publications <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [And this, in a nutshell’s nutshell, is “Machine Learning”](https://medium.com/@dhrey112/and-this-in-a-nutshells-nutshell-is-machine-learning-fdd4cc486b15?source=rss-9457b9e504be------2)
+- [And this, in a nutshell’s nutshell, is “Machine Learning“](https://medium.com/boundlessinfo/and-this-in-a-nutshells-nutshell-is-machine-learning-1ef15b2c1464?source=rss-9457b9e504be------2)
+- [A mini project with OpenCV in Python -Cartoonify an Image](https://medium.com/boundlessinfo/a-mini-project-with-opencv-in-python-cartoonify-an-image-d82b9ff6df70?source=rss-9457b9e504be------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
