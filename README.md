@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Visits Badge](https://badges.pufler.dev/visits/dhrey112/dhrey112)](https://dhrey112.github.io)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dhrey112)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dare112/)
-[![Medium Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+<!-- [![Medium Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer) -->
 
 Hello there 👋!
 <br>
@@ -73,12 +73,5 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 </a>
 
 <br>
-
-
-
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrey112&layout=compact)](https://github.com/dhrey112/github-readme-stats)
-
 ---
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
