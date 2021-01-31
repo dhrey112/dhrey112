@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Dare's GitHub Banner](./assets/)](https://braydoncoyer.dev)
 
 Hello, my name is Dare and I am a machine learning engineer from Nigeria. Right now, my main focus is to learn as much as I can in order to find a Junior position. If you would like to chat, please send me a message adelekedare2012@gmail.com
 <br>
