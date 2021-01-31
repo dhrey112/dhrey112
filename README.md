@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dare112/)
 [![Medium Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
-Hello, my name is Dare
+Hello there 👋!
 <br>
+I'm Dare, a machine learning engineer, data science and data engineer. Always excited about new technologies.
+
 ### "Wanted to Create positive change through coding"
 <br>
-If you would like to chat, please send me a message adelekedare2012@gmail.com
+Want to know more about me? [Check out my portfolio.](https://dhrey112.github.io/) or for chat, please send me a [message](adelekedare2012@gmail.com)
 
 
 <codersrank-skills-chart username="dhrey112"></codersrank-skills-chart>
