@@ -27,7 +27,8 @@ I'm Dare, a machine learning engineer, data science and data engineer. Always ex
 
 ### "Wanted to Create positive change through coding"
 <br>
-Want to know more about me? [Check out my portfolio.](https://dhrey112.github.io/) or for chat, please send me a [message](adelekedare2012@gmail.com)
+Want to know more about me? [Check out my portfolio.](https://dhrey112.github.io/)
+or for chat, please send me a [message](adelekedare2012@gmail.com)
 
 
 <codersrank-skills-chart username="dhrey112"></codersrank-skills-chart>
