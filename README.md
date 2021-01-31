@@ -38,10 +38,12 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 <!-- BLOG-POST-LIST:END -->
 <br>
 ![Dare's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrey112&show_icons=true&theme=blue-green)
+
 [![Dare's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrey112)](https://github.com/dhrey112/github-readme-stats)
+
 ![Dare's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrey112&show_icons=true)
 
-blue-green
+
 
 <codersrank-skills-chart username="dhrey112"></codersrank-skills-chart>
 
