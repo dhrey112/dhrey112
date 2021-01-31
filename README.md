@@ -25,13 +25,11 @@ Hello there 👋!
 <br>
 I'm Dare, a machine learning engineer, data science and data engineer. Always excited about new technologies.
 
-### "Wanted to Create positive change through coding"
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-<br>
+### "Wanted to Create positive change through coding"<br>
 
 Want to know more about me? [Check out my portfolio.](https://dhrey112.github.io/)
 <br>
-or for chat, please send me a [message](adelekedare2012@gmail.com)
+or for chat, please send me a [message]<adelekedare2012@gmail.com>
 
 
 
