@@ -37,21 +37,43 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 
 <!-- BLOG-POST-LIST:END -->
 <br>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
 <a href="https://github.com/dhrey112">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrey112&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrey112&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/dhrey112">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dhrey112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dhrey112&show_icons=true&line_height=27&count_private=true&title_color=2f97c1&text_color=0cf574&icon_color=f5b700&bg_color=040f0f" alt="Martin's GitHub Stats" />
 </a>
 
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/dhrey112/Project-ML-and-DL">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrey112&repo=Project-ML-and-DL&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/dhrey112/python_project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrey112&repo=python_project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/dhrey112/sentimentAnalysis-5_Naive_Bayes_model">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrey112&repo=sentimentAnalysis-5_Naive_Bayes_model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 
-<codersrank-skills-chart username="dhrey112"></codersrank-skills-chart>
+
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrey112&layout=compact)](https://github.com/dhrey112/github-readme-stats)
