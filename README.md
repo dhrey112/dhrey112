@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Dare's GitHub Banner](./assets/)](https://braydoncoyer.dev)
+[![Dare's GitHub Banner](./img/mylogo.png)](https://dhrey112.github.io)
 
-Hello, my name is Dare and I am a machine learning engineer from Nigeria. Right now, my main focus is to learn as much as I can in order to find a Junior position. If you would like to chat, please send me a message adelekedare2012@gmail.com
+Hello, my name is Dare
 <br>
-Creating positive change through coding
+### "Wanted to Create positive change through coding"
+<br>
+If you would like to chat, please send me a message adelekedare2012@gmail.com
 
 
 <codersrank-skills-chart username="dhrey112"></codersrank-skills-chart>
