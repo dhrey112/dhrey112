@@ -29,7 +29,7 @@ I'm Dare, a machine learning engineer, data science and data engineer. Always ex
 
 Want to know more about me? [Check out my portfolio.](https://dhrey112.github.io/)
 <br>
-or for chat, please send me a [message](<adelekedare2012@gmail.com>)
+For chat, please send me a message <adelekedare2012@gmail.com>
 
 
 
