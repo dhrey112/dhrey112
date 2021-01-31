@@ -31,7 +31,13 @@ Want to know more about me? [Check out my portfolio.](https://dhrey112.github.io
 <br>
 For chat, please send me a message <adelekedare2012@gmail.com>
 
+## 📝 Publications <br>
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+[![Dare's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrey112)](https://github.com/dhrey112/github-readme-stats)
 
 <codersrank-skills-chart username="dhrey112"></codersrank-skills-chart>
 
