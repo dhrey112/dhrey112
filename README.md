@@ -99,7 +99,7 @@ For chat, please send me a message <adelekedare2012@gmail.com>
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-https://simpleicons.org/icons/apachecassandra.svg
+
 <br>
 
 ---
